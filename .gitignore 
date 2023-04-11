@@ -1,0 +1,40 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+*.venv
+
+# Logs
+logs/
+*.log
+
+# Dependencies
+/.venv/
+/.idea/
+/.vscode/
+*/.pytest_cache/
+*/.cache/
+*/__pycache__/
+*/build/
+*/dist/
+*.egg-info/
+.idea/
+.vscode/
+
+# Generated files
+*.csv
+
+
+# Configuration files
+.env
+
+# Other files
+.DS_Store
+.idea/
+*.pyc
+__pycache__/
+
+
